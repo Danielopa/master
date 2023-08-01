@@ -220,3 +220,4 @@ BJ_REPORT.tryJs().spyAll();
 
 ##### v1.0.0
 1. 功能上线
+hellolo
