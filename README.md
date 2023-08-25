@@ -6,7 +6,7 @@ badjs-report gerion51
 ## Author
 [caihuiji](https://github.com/caihuiji) [yorts52](https://github.com/yorts52)
 
-## Install
+## Installi
 
 ```shell
 $ npm install badjs-report
