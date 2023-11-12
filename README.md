@@ -1,4 +1,4 @@
-badjs-report gerion
+badjs-report gerionss
 --
 
 [![Build Status](https://travis-ci.org/BetterJS/badjs-report.svg?branch=master)](https://travis-ci.org/BetterJS/badjs-report)
