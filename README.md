@@ -6,7 +6,7 @@ badjs-report gerion1
 ## Author
 [caihuiji](https://github.com/caihuiji) [yorts52](https://github.com/yorts52)
 
-## Installi teo 
+## Installi teo ss
 
 ```shell
 $ npm install badjs-report
